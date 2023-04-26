@@ -1,5 +1,6 @@
-# CS389Remote
+# CS389Training
 
-I made a change locally and want to push it in GitHub
+This repository is used for demos and training purposes.
 
-Changes made on the branch christelle
+* Training on Git / GitHub
+* Training on testing (for ProSum)
